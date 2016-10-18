@@ -7,9 +7,8 @@ function add_meta_to_my_app_posts ( $post_data, $post, $component ) {
 }
 $post_data['my_meta'] = get_field('my_meta'); //Post ID not necessary here
 
-if( $post->post_type == 'my-post-type' ) { //add custom field here 
-}
+if( $post->post_type == 'my-post-type' ) { //add custom field here }
 
-if( $component->slug == 'my-component' ) { //add custom field here
- }
+if( $component->slug == 'my-component' ) { //add custom field here }
+
 ?>

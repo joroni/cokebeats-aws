@@ -5,6 +5,16 @@
     }
 
 
+    .media-title-inner {
+        font-size: 40px;
+        top: 24%;
+        width: 100%;
+    }
+    .media-object-thumb {
+        width: 125px;
+        height: 125px;
+    }
+
     .top-banner {
         display: block;
         height: 20px !important;
@@ -39,6 +49,11 @@
 @media screen and (max-width: 500px) {
 
 
+    .media-title-inner {
+        font-size: 40px;
+        top: 24%;
+        width: 100%;
+    }
 
         .top-banner {
             display: block;
@@ -61,6 +76,12 @@
         position: fixed;
         top: 24px;
     }
+
+    .media-object-thumb {
+        width: 125px;
+        height: 125px;
+    }
+
 
     .swiper-button-next, .swiper-button-prev {
 
@@ -105,6 +126,13 @@ a.user-link {
         width: 400px;
     }
 
+    .media-title-inner {
+        font-size: 40px;
+    }
+.media-object-thumb {
+    width: 230px;
+    height: 230px;
+}
     .top-banner {
         display: none;
     }
@@ -151,6 +179,11 @@ a.user-link {
         margin: 5% auto;
     }
 
+    .media-object-thumb {
+        width: 230px;
+        height: 230px;
+    }
+
     div.user > img {
         border-radius: 50%;
         width: 100px;
@@ -184,4 +217,60 @@ a.user-link {
     }
 
 
+    .media-title-inner {
+        color: #fff148 !important;
+        line-height: 0.98em;
+        padding: 10px;
+        font-size: 70px;
+
+        text-transform: uppercase;
+        letter-spacing: -2px;
+        position: relative;
+        text-shadow: 1px 0 3px #000;
+        top: 30%;
+        width: 100% !important;
+        text-align: center;
+        /* border-left: 2px solid #d10000; */
+        font-family: "Roboto Condensed", helevtica, sans-serif !important;
+        font-weight: 500 !important;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+}
+
+@media only screen and (min-device-width: 768px) {
+    div#app-canvas {
+        width: 100%;
+    }
+
+    .media-title-inner {
+        color: #fff148 !important;
+        line-height: 0.98em;
+        padding: 10px;
+        font-size: 70px;
+
+        text-transform: uppercase;
+        letter-spacing: -2px;
+        position: relative;
+        text-shadow: 1px 0 3px #000;
+        top: 30%;
+        width: 100% !important;
+        text-align: center;
+        /* border-left: 2px solid #d10000; */
+        font-family: "Roboto Condensed", helevtica, sans-serif !important;
+        font-weight: 500 !important;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .media-object-thumb {
+        width:250px;
+        height:250px;
+    }
+    * {
+        zoom: 101%;
+    }
 }

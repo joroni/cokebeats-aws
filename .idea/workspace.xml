@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/css/index2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/img/logocps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/auth/auth-pages.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/auth/premium-posts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/auth/simple-login.BAKjs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/auth/simple-login.Bjs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/auth/simple-login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/auth/simple-login.js.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/comments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/framework7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/jquery.smoothState.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/jquery.smoothState.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/jquery.smoothState.min.trans.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/kitchen-sink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/js/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-hdpi-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-hdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-ldpi-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-ldpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-mdpi-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-mdpi-portrait" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-mdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-xhdpi-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/screen-xhdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/bada-wac/screen-type3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/bada-wac/screen-type4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/bada-wac/screen-type5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/bada/screen-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/blackberry/screen-225.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/Default-568h-Portrait@2x~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/Default-667h-Portrait@2x~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/Default-736h-Portrait@3x~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-ipad-landscape-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-ipad-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-ipad-portrait-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-ipad-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-iphone-landscape-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-iphone-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-iphone-portrait-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-iphone-portrait-568h-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/ios/screen-iphone-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/tizen/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/webos/screen-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/res/screen/windows-phone/screen-portrait.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/spec.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/spec/helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/spec/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/spec/lib/jasmine-1.2.0/jasmine-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/spec/lib/jasmine-1.2.0/jasmine.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/spec/lib/jasmine-1.2.0/jasmine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/php/add-wpak-post-content-format.php.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/js/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/css/index2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/auth/auth-pages.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/auth/premium-posts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/auth/simple-login.BAKjs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/auth/simple-login.Bjs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/auth/simple-login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/auth/simple-login.js.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/comments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/framework7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/jquery.smoothState.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/jquery.smoothState.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/jquery.smoothState.min.trans.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/kitchen-sink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-portrait" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-xhdpi-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-xhdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada/screen-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/blackberry/screen-225.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-568h-Portrait@2x~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-667h-Portrait@2x~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-736h-Portrait@3x~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-568h-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/tizen/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/webos/screen-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/windows-phone/screen-portrait.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/php/add-wpak-post-content-format.php.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/js/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/icons/icon-40@2x.png" afterPath="$PROJECT_DIR$/platforms/browser/www/icons/icon-40@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/icons/icon-60.png" afterPath="$PROJECT_DIR$/platforms/browser/www/icons/icon-60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/icons/icon-60@2x.png" afterPath="$PROJECT_DIR$/platforms/browser/www/icons/icon-60@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/icons/icon-60@3x.png" afterPath="$PROJECT_DIR$/platforms/browser/www/icons/icon-60@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/icons/icon-small.png" afterPath="$PROJECT_DIR$/platforms/browser/www/icons/icon-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/icons/icon-small@2x.png" afterPath="$PROJECT_DIR$/platforms/browser/www/icons/icon-small@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/icons/icon.png" afterPath="$PROJECT_DIR$/platforms/browser/www/icons/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/icons/icon@2x.png" afterPath="$PROJECT_DIR$/platforms/browser/www/icons/icon@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-568h-Landscape@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-568h-Landscape@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-568h-Portrait@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-568h-Portrait@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-667h-Landscape@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-667h-Landscape@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-667h-Portrait@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-667h-Portrait@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-736h-Lanscape@3x~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-736h-Lanscape@3x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-736h-Portrait@3x~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-736h-Portrait@3x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-Landscape@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-Landscape@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-Landscape~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-Landscape~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-Portrait@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-Portrait@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-Portrait~iphone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/splashscreens/Default-Portrait~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icons/icon-40@2x.png" afterPath="$PROJECT_DIR$/www/icons/icon-40@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icons/icon-60.png" afterPath="$PROJECT_DIR$/www/icons/icon-60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icons/icon-60@2x.png" afterPath="$PROJECT_DIR$/www/icons/icon-60@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icons/icon-60@3x.png" afterPath="$PROJECT_DIR$/www/icons/icon-60@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icons/icon-small.png" afterPath="$PROJECT_DIR$/www/icons/icon-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icons/icon-small@2x.png" afterPath="$PROJECT_DIR$/www/icons/icon-small@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icons/icon.png" afterPath="$PROJECT_DIR$/www/icons/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icons/icon@2x.png" afterPath="$PROJECT_DIR$/www/icons/icon@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-568h-Landscape@2x~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-568h-Landscape@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-568h-Portrait@2x~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-568h-Portrait@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-667h-Landscape@2x~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-667h-Landscape@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-667h-Portrait@2x~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-667h-Portrait@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-736h-Lanscape@3x~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-736h-Lanscape@3x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-736h-Portrait@3x~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-736h-Portrait@3x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-Landscape@2x~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-Landscape@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-Landscape~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-Landscape~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-Portrait@2x~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-Portrait@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/splashscreens/Default-Portrait~iphone.png" afterPath="$PROJECT_DIR$/www/splashscreens/Default-Portrait~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/config.xml" afterPath="$PROJECT_DIR$/platforms/browser/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/config.js" afterPath="$PROJECT_DIR$/platforms/browser/www/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/config.xml" afterPath="$PROJECT_DIR$/platforms/browser/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/addons-internal.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/addons-internal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/addons.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/addons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/app-utils.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/app-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/app.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/css/debug.css" afterPath="$PROJECT_DIR$/platforms/browser/www/core/css/debug.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/img/wpak-debug-close-off.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/core/img/wpak-debug-close-off.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/img/wpak-debug-close-on.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/core/img/wpak-debug-close-on.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/img/wpak-lady-bug-dark.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/core/img/wpak-lady-bug-dark.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/img/wpak-lady-bug-light.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/core/img/wpak-lady-bug-light.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/launch.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/launch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/lib/encryption/jsencrypt.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/lib/encryption/jsencrypt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/lib/encryption/jsencrypt_LICENCE.txt" afterPath="$PROJECT_DIR$/platforms/browser/www/core/lib/encryption/jsencrypt_LICENCE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/lib/encryption/sha256.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/lib/encryption/sha256.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/lib/encryption/token.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/lib/encryption/token.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/lib/hooks.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/lib/hooks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/lib/parse-uri.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/lib/parse-uri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/messages.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/messages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/models/comments.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/models/comments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/models/components.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/models/components.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/models/custom-page.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/models/custom-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/models/globals.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/models/globals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/models/items.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/models/items.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/models/menu-items.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/models/menu-items.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/models/navigation.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/models/navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/models/options.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/models/options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/modules/authentication.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/modules/authentication.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/modules/comments.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/modules/comments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/modules/deep-link.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/modules/deep-link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/modules/flags.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/modules/flags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/modules/persistent-storage.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/modules/persistent-storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/modules/storage.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/modules/storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/phonegap/geolocation.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/phonegap/geolocation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/phonegap/utils.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/phonegap/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/region-manager.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/region-manager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/router.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/stats.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/stats.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/theme-app.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/theme-app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/theme-tpl-tags.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/theme-tpl-tags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/archive.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/archive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/backbone-template-view.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/backbone-template-view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/comments.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/comments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/custom-component.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/custom-component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/custom-page.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/custom-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/debug.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/debug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/head.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/head.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/header.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/layout.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/layout.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/menu.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/page.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/core/views/single.js" afterPath="$PROJECT_DIR$/platforms/browser/www/core/views/single.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/debug.html" afterPath="$PROJECT_DIR$/platforms/browser/www/debug.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lang/theme-messages.js" afterPath="$PROJECT_DIR$/platforms/browser/www/lang/theme-messages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/LICENSE" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/archive.html" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/archive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/common.css" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/post-detail.css" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/post-detail.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/post-list.css" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/post-list.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/dist/img/i-form-gender-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/dist/img/i-form-gender-material.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/dist/img/i-form-settings-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/dist/img/i-form-settings-material.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/dist/img/i-form-toggle-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/dist/img/i-form-toggle-material.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/head.html" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/back-icon.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/back-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/camera-icon.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/camera-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/img-icon.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/img-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/menu-icon.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/menu-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/refresh-off-icon.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/refresh-off-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/refresh-on-icon.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/img/refresh-on-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/functions.BAKjs" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/functions.BAKjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/functions.js" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/jquery.fitvids.js" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/jquery.fitvids.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/moment.min.js" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/moment.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/velocity.min.js" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/js/velocity.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/menu.html" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/page.html" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/php/handle_my_post_metadata.php" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/php/handle_my_post_metadata.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/single.html" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/async.js" afterPath="$PROJECT_DIR$/platforms/browser/www/vendor/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/backbone.js" afterPath="$PROJECT_DIR$/platforms/browser/www/vendor/backbone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/jquery.js" afterPath="$PROJECT_DIR$/platforms/browser/www/vendor/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/jquery.velocity.js" afterPath="$PROJECT_DIR$/platforms/browser/www/vendor/jquery.velocity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/localstorage.js" afterPath="$PROJECT_DIR$/platforms/browser/www/vendor/localstorage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/require.js" afterPath="$PROJECT_DIR$/platforms/browser/www/vendor/require.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/text.js" afterPath="$PROJECT_DIR$/platforms/browser/www/vendor/text.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/vendor/underscore.js" afterPath="$PROJECT_DIR$/platforms/browser/www/vendor/underscore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.js" afterPath="$PROJECT_DIR$/www/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/addons-internal.js" afterPath="$PROJECT_DIR$/www/core/addons-internal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/addons.js" afterPath="$PROJECT_DIR$/www/core/addons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/app-utils.js" afterPath="$PROJECT_DIR$/www/core/app-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/app.js" afterPath="$PROJECT_DIR$/www/core/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/css/debug.css" afterPath="$PROJECT_DIR$/www/core/css/debug.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/img/wpak-debug-close-off.svg" afterPath="$PROJECT_DIR$/www/core/img/wpak-debug-close-off.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/img/wpak-debug-close-on.svg" afterPath="$PROJECT_DIR$/www/core/img/wpak-debug-close-on.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/img/wpak-lady-bug-dark.svg" afterPath="$PROJECT_DIR$/www/core/img/wpak-lady-bug-dark.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/img/wpak-lady-bug-light.svg" afterPath="$PROJECT_DIR$/www/core/img/wpak-lady-bug-light.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/launch.js" afterPath="$PROJECT_DIR$/www/core/launch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/lib/encryption/jsencrypt.js" afterPath="$PROJECT_DIR$/www/core/lib/encryption/jsencrypt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/lib/encryption/jsencrypt_LICENCE.txt" afterPath="$PROJECT_DIR$/www/core/lib/encryption/jsencrypt_LICENCE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/lib/encryption/sha256.js" afterPath="$PROJECT_DIR$/www/core/lib/encryption/sha256.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/lib/encryption/token.js" afterPath="$PROJECT_DIR$/www/core/lib/encryption/token.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/lib/hooks.js" afterPath="$PROJECT_DIR$/www/core/lib/hooks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/lib/parse-uri.js" afterPath="$PROJECT_DIR$/www/core/lib/parse-uri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/messages.js" afterPath="$PROJECT_DIR$/www/core/messages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/models/comments.js" afterPath="$PROJECT_DIR$/www/core/models/comments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/models/components.js" afterPath="$PROJECT_DIR$/www/core/models/components.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/models/custom-page.js" afterPath="$PROJECT_DIR$/www/core/models/custom-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/models/globals.js" afterPath="$PROJECT_DIR$/www/core/models/globals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/models/items.js" afterPath="$PROJECT_DIR$/www/core/models/items.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/models/menu-items.js" afterPath="$PROJECT_DIR$/www/core/models/menu-items.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/models/navigation.js" afterPath="$PROJECT_DIR$/www/core/models/navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/models/options.js" afterPath="$PROJECT_DIR$/www/core/models/options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/modules/authentication.js" afterPath="$PROJECT_DIR$/www/core/modules/authentication.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/modules/comments.js" afterPath="$PROJECT_DIR$/www/core/modules/comments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/modules/deep-link.js" afterPath="$PROJECT_DIR$/www/core/modules/deep-link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/modules/flags.js" afterPath="$PROJECT_DIR$/www/core/modules/flags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/modules/persistent-storage.js" afterPath="$PROJECT_DIR$/www/core/modules/persistent-storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/modules/storage.js" afterPath="$PROJECT_DIR$/www/core/modules/storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/phonegap/geolocation.js" afterPath="$PROJECT_DIR$/www/core/phonegap/geolocation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/phonegap/utils.js" afterPath="$PROJECT_DIR$/www/core/phonegap/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/region-manager.js" afterPath="$PROJECT_DIR$/www/core/region-manager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/router.js" afterPath="$PROJECT_DIR$/www/core/router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/stats.js" afterPath="$PROJECT_DIR$/www/core/stats.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/theme-app.js" afterPath="$PROJECT_DIR$/www/core/theme-app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/theme-tpl-tags.js" afterPath="$PROJECT_DIR$/www/core/theme-tpl-tags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/archive.js" afterPath="$PROJECT_DIR$/www/core/views/archive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/backbone-template-view.js" afterPath="$PROJECT_DIR$/www/core/views/backbone-template-view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/comments.js" afterPath="$PROJECT_DIR$/www/core/views/comments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/custom-component.js" afterPath="$PROJECT_DIR$/www/core/views/custom-component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/custom-page.js" afterPath="$PROJECT_DIR$/www/core/views/custom-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/debug.js" afterPath="$PROJECT_DIR$/www/core/views/debug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/head.js" afterPath="$PROJECT_DIR$/www/core/views/head.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/header.js" afterPath="$PROJECT_DIR$/www/core/views/header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/layout.js" afterPath="$PROJECT_DIR$/www/core/views/layout.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/menu.js" afterPath="$PROJECT_DIR$/www/core/views/menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/page.js" afterPath="$PROJECT_DIR$/www/core/views/page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/core/views/single.js" afterPath="$PROJECT_DIR$/www/core/views/single.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/debug.html" afterPath="$PROJECT_DIR$/www/debug.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lang/theme-messages.js" afterPath="$PROJECT_DIR$/www/lang/theme-messages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/LICENSE" afterPath="$PROJECT_DIR$/www/themes/cokebeats/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/archive.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/archive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/common.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/post-detail.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/post-detail.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/post-list.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/post-list.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-gender-material.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-gender-material.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-settings-material.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-settings-material.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-toggle-material.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-toggle-material.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/head.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/back-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/back-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/camera-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/camera-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/img-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/img-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/menu-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/menu-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/refresh-off-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/refresh-off-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/refresh-on-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/refresh-on-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.BAKjs" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.BAKjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/jquery.fitvids.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/jquery.fitvids.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/moment.min.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/moment.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/velocity.min.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/velocity.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/menu.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/page.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/php/handle_my_post_metadata.php" afterPath="$PROJECT_DIR$/www/themes/cokebeats/php/handle_my_post_metadata.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/single.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/async.js" afterPath="$PROJECT_DIR$/www/vendor/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/backbone.js" afterPath="$PROJECT_DIR$/www/vendor/backbone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/jquery.js" afterPath="$PROJECT_DIR$/www/vendor/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/jquery.velocity.js" afterPath="$PROJECT_DIR$/www/vendor/jquery.velocity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/localstorage.js" afterPath="$PROJECT_DIR$/www/vendor/localstorage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/require.js" afterPath="$PROJECT_DIR$/www/vendor/require.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/text.js" afterPath="$PROJECT_DIR$/www/vendor/text.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/underscore.js" afterPath="$PROJECT_DIR$/www/vendor/underscore.js" />
+    </list>
+    <ignored path="cokebeats-aws.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cokebeats-aws" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/archive.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="344" column="0" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/media.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="267" column="0" selection-start-line="267" selection-start-column="0" selection-end-line="267" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats-aws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokebeats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="" />
+      <created>1476829148326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476829148326</updated>
+      <workItem from="1476829150544" duration="1536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1536000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="344" column="0" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="267" column="0" selection-start-line="267" selection-start-column="0" selection-end-line="267" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -4,9 +4,8 @@ define( function ( require ) {
 
 	return {
 		app_slug : 'coke-beats',
-		wp_ws_url : 'http://104.238.96.209/~project/newsletter/wp-appkit-api/coke-beats',
-		wp_url : 'http://104.238.96.209/~project/newsletter',
-		//theme : 'wpak-theme-bootstrap',
+		wp_ws_url : 'http://ec2-54-214-99-121.us-west-2.compute.amazonaws.com/cokebeats/wp-appkit-api/coke-beats',
+		wp_url : 'http://ec2-54-214-99-121.us-west-2.compute.amazonaws.com/cokebeats',
 		theme : 'cokebeats',
 		version : '1.0',
 		app_title : 'Coke Beats',
