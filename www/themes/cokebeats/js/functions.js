@@ -386,7 +386,18 @@ define([
 
     };
 
+    $('#SignIn-btn').on('click', function (  ) {
 
+
+        App.on('refresh:start', function () {
+
+            // Start refresh icon animation
+            //$("#refresh-button").removeClass("refresh-off").addClass("refresh-on");
+            window.location.replace('index.html#component-allnewsletters');
+
+        });
+
+    });
     /**
      * App Events
      */
@@ -399,12 +410,15 @@ define([
 
     });
 
+
+
+
     // @desc Refresh process ends
     // @param result
     App.on('refresh:end', function ( result ) {
 
         // Navigate to the default screen
-        App.navigateToDefaultRoute();
+      //  App.navigateToDefaultRoute();
 
         Storage.clear('scroll-pos');    // Clear the previous memorized position in the local storage
 
@@ -1061,7 +1075,8 @@ define([
         if (localStorage['Authentication-coke-beats-Authentication-coke-beats']) {
             //window.location.replace("main.html");
             console.log('OK');
-            $('#logoutBtn').show();
+           // $('#logoutBtn').show();
+            //window.location.replace('index.html#component-allnewsletters');
         } else {
             console.log('err');
             $('#logoutBtn').hide();

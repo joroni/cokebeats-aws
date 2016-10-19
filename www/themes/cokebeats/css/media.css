@@ -24,6 +24,11 @@
         width: 100%;
     }
 
+    .swiper-button-next, .swiper-button-prev {
+
+        top: 40%;
+    }
+
     .navbar-fixed-top {
         left: 0;
         position: fixed !important;
@@ -53,6 +58,12 @@
         font-size: 40px;
         top: 24%;
         width: 100%;
+    }
+
+
+    .swiper-button-next, .swiper-button-prev {
+
+        top: 40%;
     }
 
         .top-banner {
