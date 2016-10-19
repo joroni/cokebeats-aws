@@ -1043,6 +1043,7 @@ define([
     $('#LogOk').on('click', function ( e ) {
         e.preventDefault();
         localStorage.removeItem('Authentication-coke-beats-Authentication-coke-beats');
+        localStorage.removeItem('Authentication-coke-beats');
 
         window.location.replace('index.html');
         $('#logoutConfirmation').hide();
@@ -1064,6 +1065,10 @@ define([
         } else {
             console.log('err');
             $('#logoutBtn').hide();
+           // $('#login-page').show();
+
+            window.location.replace('index.html#login-page');
+
         }
 
     }
@@ -1072,6 +1077,5 @@ define([
 
 
 });
-
 
 
