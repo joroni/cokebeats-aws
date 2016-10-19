@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" line="607" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="" />
+    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+    </list>
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="498">
-              <caret line="80" column="111" selection-start-line="80" selection-start-column="111" selection-end-line="80" selection-end-column="111" />
+              <caret line="80" column="112" selection-start-line="80" selection-start-column="112" selection-end-line="80" selection-end-column="112" />
               <folding />
             </state>
           </provider>
@@ -377,16 +379,16 @@
       <updated>1476829148326</updated>
       <workItem from="1476829150544" duration="6427000" />
       <workItem from="1476843682503" duration="3628000" />
-      <workItem from="1476892145209" duration="3342000" />
+      <workItem from="1476892145209" duration="3941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13397000" />
+    <option name="totallyTimeSpent" value="13996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -693,7 +695,7 @@
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
-          <caret line="80" column="111" selection-start-line="80" selection-start-column="111" selection-end-line="80" selection-end-column="111" />
+          <caret line="80" column="112" selection-start-line="80" selection-start-column="112" selection-end-line="80" selection-end-column="112" />
           <folding />
         </state>
       </provider>
