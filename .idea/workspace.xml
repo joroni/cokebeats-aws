@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" line="607" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
-    </list>
+    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="" />
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +57,8 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+            <state relative-caret-position="498">
+              <caret line="80" column="111" selection-start-line="80" selection-start-column="111" selection-end-line="80" selection-end-column="111" />
               <folding />
             </state>
           </provider>
@@ -380,12 +377,12 @@
       <updated>1476829148326</updated>
       <workItem from="1476829150544" duration="6427000" />
       <workItem from="1476843682503" duration="3628000" />
-      <workItem from="1476892145209" duration="3313000" />
+      <workItem from="1476892145209" duration="3342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13368000" />
+    <option name="totallyTimeSpent" value="13397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -695,8 +692,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        <state relative-caret-position="498">
+          <caret line="80" column="111" selection-start-line="80" selection-start-column="111" selection-end-line="80" selection-end-column="111" />
           <folding />
         </state>
       </provider>
