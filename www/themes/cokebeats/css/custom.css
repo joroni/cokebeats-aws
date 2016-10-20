@@ -259,6 +259,7 @@ input[type="button"], button {
 .row {
     margin-left: -20px !important;
     margin-right: -20px !important;
+    margin-bottom: 20px !important;
 }
 
 #app-content-wrapper {
