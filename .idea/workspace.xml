@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" line="608" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" line="593" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/themes/cokebeats/user-page.BAKhtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/comments.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/comments.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/layout.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/login-page.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/login-page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/user-page.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/user-page.html" />
     </list>
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,18 +41,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="1010" column="11" selection-start-line="1010" selection-start-column="11" selection-end-line="1010" selection-end-column="11" />
+            <state relative-caret-position="360">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -52,8 +51,8 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="15">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -62,75 +61,90 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="15">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/config.js">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/functions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15795">
-              <caret line="1074" column="53" selection-start-line="1074" selection-start-column="53" selection-end-line="1074" selection-end-column="53" />
+            <state relative-caret-position="1275">
+              <caret line="85" column="49" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="49" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1476893419000" expanded="true" signature="15157:15197" placeholder="..." />
-                <marker date="1476893419000" expanded="true" signature="15312:15354" placeholder="..." />
-                <marker date="1476893419000" expanded="true" signature="15674:15716" placeholder="..." />
-                <marker date="1476893419000" expanded="true" signature="22710:22750" placeholder="..." />
-                <marker date="1476893419000" expanded="true" signature="23484:23526" placeholder="..." />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#1;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="swiper.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.js">
+      <file leaf-file-name="simple-login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="406" column="14" selection-start-line="406" selection-start-column="14" selection-end-line="406" selection-end-column="14" />
+            <state relative-caret-position="1755">
+              <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+              <folding>
+                <marker date="1478613873000" expanded="true" signature="871:893" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth-pages.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1665">
+              <caret line="111" column="12" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="photoswipe.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/photoswipe/photoswipe.css">
+      <file leaf-file-name="comments.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/comments.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="119" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="119" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/comments.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="0" column="135" selection-start-line="0" selection-start-column="135" selection-end-line="0" selection-end-column="135" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
+      <file leaf-file-name="user-page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/user-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="98" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
-              <folding />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="archive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/archive.html">
+      <file leaf-file-name="login-page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/login-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+            <state relative-caret-position="1170">
+              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,11 +160,17 @@
       <list>
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/js/login.html" />
-        <option value="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/head.html" />
-        <option value="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" />
-        <option value="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.js" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/user-page.html" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/layout.html" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/login-page.html" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/comments.html" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/www/config.xml" />
       </list>
@@ -191,7 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -227,22 +246,23 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Alpha/fizzquizzz3.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Alpha/fizzquizzz3.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/themes/cokebeats" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/www" />
-      <recent name="$PROJECT_DIR$/www/themes/cokebeats" />
     </key>
   </component>
   <component name="RunManager" selected="PhoneGap/Cordova.ios">
@@ -250,6 +270,9 @@
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -344,7 +367,26 @@
       <workItem from="1476905268913" duration="517000" />
       <workItem from="1476916702171" duration="563000" />
       <workItem from="1476918338376" duration="421000" />
-      <workItem from="1476920620254" duration="4477000" />
+      <workItem from="1476920620254" duration="6241000" />
+      <workItem from="1476967832292" duration="535000" />
+      <workItem from="1477030601050" duration="1401000" />
+      <workItem from="1477092406613" duration="596000" />
+      <workItem from="1477215207258" duration="1490000" />
+      <workItem from="1477246798458" duration="180000" />
+      <workItem from="1477264930888" duration="488000" />
+      <workItem from="1477408527202" duration="902000" />
+      <workItem from="1477422242585" duration="570000" />
+      <workItem from="1477514267688" duration="271000" />
+      <workItem from="1477523496262" duration="5000" />
+      <workItem from="1477545309753" duration="164000" />
+      <workItem from="1477635744962" duration="598000" />
+      <workItem from="1477999009155" duration="596000" />
+      <workItem from="1478049796011" duration="575000" />
+      <workItem from="1478060729202" duration="32000" />
+      <workItem from="1478528859874" duration="16293000" />
+      <workItem from="1478624411173" duration="587000" />
+      <workItem from="1478645312144" duration="456000" />
+      <workItem from="1478666819624" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -364,7 +406,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19974000" />
+    <option name="totallyTimeSpent" value="48217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -372,21 +414,21 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -413,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,11 +503,11 @@
           <caret line="1078" column="14" selection-start-line="1078" selection-start-column="14" selection-end-line="1078" selection-end-column="14" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1476893419000" expanded="true" signature="15157:15197" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="15312:15354" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="15674:15716" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="22710:22750" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="23484:23526" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -476,9 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="90" column="8" selection-start-line="81" selection-start-column="4" selection-end-line="90" selection-end-column="8" />
-          <folding>
-            <marker date="1475729541000" expanded="true" signature="871:893" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -486,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="98" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -502,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,11 +561,11 @@
           <caret line="388" column="30" selection-start-line="388" selection-start-column="30" selection-end-line="388" selection-end-column="30" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1476893419000" expanded="true" signature="15157:15197" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="15312:15354" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="15674:15716" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="22710:22750" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="23484:23526" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -555,9 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="90" column="8" selection-start-line="81" selection-start-column="4" selection-end-line="90" selection-end-column="8" />
-          <folding>
-            <marker date="1475729541000" expanded="true" signature="871:893" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -573,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -599,11 +626,11 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1476893419000" expanded="true" signature="15157:15197" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="15312:15354" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="15674:15716" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="22710:22750" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="23484:23526" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -626,9 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="90" column="8" selection-start-line="81" selection-start-column="4" selection-end-line="90" selection-end-column="8" />
-          <folding>
-            <marker date="1475729541000" expanded="true" signature="871:893" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,13 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/login-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/login.html" />
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/login.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -679,53 +694,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/media.css">
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1830">
-          <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" column="8" selection-start-line="81" selection-start-column="4" selection-end-line="90" selection-end-column="8" />
-          <folding>
-            <marker date="1475729541000" expanded="true" signature="871:893" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="98" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="1010" column="11" selection-start-line="1010" selection-start-column="11" selection-end-line="1010" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="6090">
+          <caret line="406" column="14" selection-start-line="406" selection-start-column="14" selection-end-line="406" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -733,38 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15795">
-          <caret line="1074" column="53" selection-start-line="1074" selection-start-column="53" selection-end-line="1074" selection-end-column="53" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1476893419000" expanded="true" signature="15157:15197" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="15312:15354" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="15674:15716" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="22710:22750" placeholder="..." />
-            <marker date="1476893419000" expanded="true" signature="23484:23526" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="406" column="14" selection-start-line="406" selection-start-column="14" selection-end-line="406" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,14 +712,156 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/user-page.BAKhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="89" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="21" column="98" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5010">
+          <caret line="334" column="0" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="175" column="5" selection-start-line="175" selection-start-column="5" selection-end-line="175" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16215">
+          <caret line="1098" column="0" selection-start-line="1093" selection-start-column="4" selection-end-line="1098" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="49" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+          <folding>
+            <marker date="1478613873000" expanded="true" signature="871:893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="12" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="119" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="135" selection-start-line="0" selection-start-column="135" selection-end-line="0" selection-end-column="135" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/user-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/login-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding />
         </state>
       </provider>

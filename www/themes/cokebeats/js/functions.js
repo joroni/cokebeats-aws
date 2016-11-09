@@ -111,7 +111,7 @@ define([
 
     /*************** DUPLICATED touchend function and applied to on onclick instead, to reduce
      * unnintenional photozoom **/
-     
+
     $("#app-layout").on("click", ".single-content img", function () {
         console.log('click');
         img_dragging = false;
@@ -386,13 +386,13 @@ define([
 
     };
 
-    $('#SignIn-btn').on('click', function (  ) {
+    $('.login').on('click', function (  ) {
 
-
+        $('#logoutBtn').show();
         App.on('refresh:start', function () {
 
             // Start refresh icon animation
-            //$("#refresh-button").removeClass("refresh-off").addClass("refresh-on");
+            $("#refresh-button").removeClass("refresh-off").addClass("refresh-on");
             window.location.replace('index.html#component-allnewsletters');
 
         });
@@ -431,14 +431,14 @@ define([
 
         /**
          * Display if the refresh process is a success or not
-         * @todo if an error occurs we should not reset scroll position
-         * @todo messages should be centralized to ease translations
+         * if an error occurs we should not reset scroll position
+         * messages should be centralized to ease translations
          */
         if (result.ok) {
             showMessage('<div class="messageinfo" style="background: rgb(02,255,51); color: #333;">Content updated successfully</div>');
         } else {
             showMessage('<div class="messageinfo"  style="background: rgb(255,153,153); color: #333;">' + result.message + '</div>');
-            // showMessage(result);
+             showMessage(result);
 
         }
 
@@ -1074,11 +1074,11 @@ define([
 
         if (localStorage['Authentication-coke-beats-Authentication-coke-beats']) {
             //window.location.replace("main.html");
-            console.log('OK');
+            console.log('Logged In');
            // $('#logoutBtn').show();
-            //window.location.replace('index.html#component-allnewsletters');
+           window.location.replace('index.html#component-allnewsletters');
         } else {
-            console.log('err');
+            console.log('Logged Out');
             $('#logoutBtn').hide();
            // $('#login-page').show();
 
@@ -1091,6 +1091,25 @@ define([
     check_storage();
 
 
-});
+    function loadPage() {
+        setTimeout(myFunction, 3000);
+        location.reload();
 
+    }
+
+
+   /* $('#SignIn-btn').on('click', function () {
+        App.setParam('go-to-default-route-after-refresh', true);
+
+    });
+    */
+
+    $('#Enter-btn').on('click', function () {
+        window.location.replace('index.html');
+        $('#logoutBtn').show();
+
+    });
+
+
+});
 

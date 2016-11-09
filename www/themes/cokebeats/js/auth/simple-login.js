@@ -98,9 +98,12 @@ var $user_info = $('#user-info');
 		Auth.logUserIn( 
 			$('#userlogin').val(), 
 			$('#userpass').val(),
-			$('#user-info').hide()
+			$('#user-info').hide(),
+			
+		console.log('Ok')
 
 		);
+
 	} );
 	
 	/**
@@ -112,6 +115,7 @@ var $user_info = $('#user-info');
 
 	} );
 
+	
 
 
 
