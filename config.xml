@@ -1,6 +1,8 @@
-<widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" id="com.ko.cokebeats"
-        version="1.0.29">
-
+<widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets"
+        id="com.coca-cola.cokebeats"
+        version="1.0.29"
+        android-versionCode="1029"
+        ios-CFBundleVersion="1.0.29">
     <name>Coke Beats</name>
     <description>Newsletter App</description>
     <author href="http://coca-cola.com" email="cosay@coca-cola.com">SDC Manila Team</author>

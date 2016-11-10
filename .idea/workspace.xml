@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/themes/cokebeats/user-page.BAKhtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/comments.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/comments.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/layout.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/login-page.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/login-page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/user-page.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/user-page.html" />
     </list>
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,21 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="-120">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -171,8 +161,8 @@
         <option value="$PROJECT_DIR$/www/themes/cokebeats/comments.html" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/www/config.xml" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
@@ -211,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,6 +236,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,7 +376,8 @@
       <workItem from="1478528859874" duration="16293000" />
       <workItem from="1478624411173" duration="587000" />
       <workItem from="1478645312144" duration="456000" />
-      <workItem from="1478666819624" duration="740000" />
+      <workItem from="1478666819624" duration="1477000" />
+      <workItem from="1478758892261" duration="408000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -406,7 +397,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48217000" />
+    <option name="totallyTimeSpent" value="49362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -470,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1830">
           <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,14 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15915">
           <caret line="1078" column="14" selection-start-line="1078" selection-start-column="14" selection-end-line="1078" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -559,14 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5565">
           <caret line="388" column="30" selection-start-line="388" selection-start-column="30" selection-end-line="388" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,14 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1995">
           <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="175" column="5" selection-start-line="175" selection-start-column="5" selection-end-line="175" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,14 +727,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16215">
           <caret line="1098" column="0" selection-start-line="1093" selection-start-column="4" selection-end-line="1098" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
-            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -842,26 +814,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="-120">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
           <folding />
         </state>
       </provider>
