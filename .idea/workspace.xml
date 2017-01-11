@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" line="593" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="" />
+    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.js" afterPath="$PROJECT_DIR$/www/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+    </list>
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,64 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/layout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="85" column="49" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="49" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#1;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simple-login.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
-              <folding>
-                <marker date="1478613873000" expanded="true" signature="871:893" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth-pages.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="111" column="12" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="12" />
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -93,44 +41,8 @@
       <file leaf-file-name="comments.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/comments.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="119" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="119" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comments.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/comments.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="135" selection-start-line="0" selection-start-column="135" selection-end-line="0" selection-end-column="135" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user-page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/user-page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login-page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/login-page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state relative-caret-position="20">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -144,13 +56,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/js/login.html" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/head.html" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.js" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/user-page.html" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/layout.html" />
-        <option value="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/login-page.html" />
         <option value="$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js" />
@@ -159,6 +69,9 @@
         <option value="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
         <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/config.js" />
       </list>
     </option>
   </component>
@@ -170,7 +83,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="724" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -239,7 +152,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Alpha/fizzquizzz3.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -373,7 +286,25 @@
       <workItem from="1478624411173" duration="587000" />
       <workItem from="1478645312144" duration="456000" />
       <workItem from="1478666819624" duration="1477000" />
-      <workItem from="1478758892261" duration="873000" />
+      <workItem from="1478758892261" duration="1465000" />
+      <workItem from="1478806666425" duration="590000" />
+      <workItem from="1478811347591" duration="598000" />
+      <workItem from="1478859818820" duration="287000" />
+      <workItem from="1480297022763" duration="466000" />
+      <workItem from="1480328311071" duration="567000" />
+      <workItem from="1480349419356" duration="385000" />
+      <workItem from="1480497024641" duration="1069000" />
+      <workItem from="1480786286520" duration="1517000" />
+      <workItem from="1481007138339" duration="905000" />
+      <workItem from="1481184557225" duration="598000" />
+      <workItem from="1481263014920" duration="688000" />
+      <workItem from="1481469295251" duration="579000" />
+      <workItem from="1481516200840" duration="591000" />
+      <workItem from="1481528006987" duration="594000" />
+      <workItem from="1482085872720" duration="79000" />
+      <workItem from="1484037411098" duration="1196000" />
+      <workItem from="1484097300527" duration="551000" />
+      <workItem from="1484126410109" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -393,13 +324,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49827000" />
+    <option name="totallyTimeSpent" value="62464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="725" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -472,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,7 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,13 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/user-page.BAKhtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -721,37 +643,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16215">
-          <caret line="1098" column="0" selection-start-line="1093" selection-start-column="4" selection-end-line="1098" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="49" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="49" />
+        <state relative-caret-position="225">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
-          <folding>
-            <marker date="1478613873000" expanded="true" signature="871:893" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15164:15204" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15319:15361" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="15679:15721" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="22715:22755" placeholder="..." />
+            <marker date="1478612151000" expanded="true" signature="23489:23531" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -760,14 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1665">
           <caret line="111" column="12" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/comments.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="119" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="119" />
           <folding />
         </state>
       </provider>
@@ -802,18 +693,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
+        <state relative-caret-position="45">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="85" column="49" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+          <folding>
+            <marker date="1478613873000" expanded="true" signature="871:893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding />
         </state>
       </provider>
