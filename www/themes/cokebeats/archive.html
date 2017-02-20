@@ -40,16 +40,24 @@
 	//today = today.format("yyyy-mm-dd");
 	var date_joined_cb = displayDate;
 	var time_joined_cb = displayTime;
-
+if (localStorage['Authentication-coke-beats-Authentication-coke-beats']){
 	var temp_data = localStorage.getItem('Authentication-coke-beats-Authentication-coke-beats');
 	var num_access  = 1;
 
 
-	var data = temp_data;
-	console.log(data);
-	var obj = jQuery.parseJSON( data );
-	//alert( obj.user_login );
-	var CB_username = ( obj.user_login );
+		var data = temp_data;
+		console.log(data);
+		var obj = jQuery.parseJSON( data );
+		//alert( obj.user_login );
+		var CB_username = ( obj.user_login );
+
+} else {
+	//alert('login');
+	      window.location.replace('index.html#login-page');
+}
+
+
+
 
 
 
@@ -128,9 +136,7 @@
 		localStorage.setItem('Coke-Beats-info', CB_username +':'+ date_joined_cb);
 		console.log('Logged In');
 	}
-	else {
-		  window.location.replace('index.html#login-page');
-	}
+
 
 
 	// RAYMUND CUSTOM
