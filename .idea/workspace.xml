@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/build-extras.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-extras.xcconfig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Coke Beats-Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Coke Beats-Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/www/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/archive.html" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/archive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/js/auth/simple-login.js" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/js/auth/simple-login.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/js/functions.js" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/login.html" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/platforms.json" afterPath="$PROJECT_DIR$/platforms/platforms.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/browser.json" afterPath="$PROJECT_DIR$/plugins/browser.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/archive.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/archive.html" />
     </list>
     <ignored path="cokebeats-aws.iws" />
@@ -39,8 +33,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="457">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,8 +63,8 @@
       <file leaf-file-name="archive.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/archive.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="137" selection-end-column="9" />
+            <state relative-caret-position="135">
+              <caret line="27" column="82" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -172,7 +166,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="731" />
+    <option name="height" value="734" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -233,8 +227,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -430,6 +424,8 @@
       <workItem from="1487321649884" duration="2951000" />
       <workItem from="1487570988265" duration="796000" />
       <workItem from="1487579744703" duration="660000" />
+      <workItem from="1487582379230" duration="704000" />
+      <workItem from="1487583739175" duration="929000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -449,19 +445,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124724000" />
+    <option name="totallyTimeSpent" value="126357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="734" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.42589703" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.41459626" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.57410294" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.58540374" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -832,6 +828,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/user-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
@@ -844,24 +848,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/user-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="457">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/archive.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="137" selection-end-column="9" />
+        <state relative-caret-position="135">
+          <caret line="27" column="82" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
           <folding />
         </state>
       </provider>
