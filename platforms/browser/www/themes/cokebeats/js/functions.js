@@ -184,7 +184,7 @@ define([
      * App's parameters
      */
 
-    App.setParam('go-to-default-route-after-refresh', false); // Don't automatically show default screen after a refresh
+    App.setParam('go-to-default-route-after-refresh', true); // Don't automatically show default screen after a refresh
     App.setParam('custom-screen-rendering', true); // Don't use default transitions and displays for screens
 
 
@@ -408,6 +408,7 @@ define([
         // Start refresh icon animation
         $("#refresh-button").removeClass("refresh-off").addClass("refresh-on");
 
+        $("#waiting").show();
     });
 
 
@@ -424,7 +425,7 @@ define([
 
         // The refresh icon stops to spin
         $("#refresh-button").removeClass("refresh-on").addClass("refresh-off");
-
+        $("#waiting").hide();
         // Select the current screen item in off-canvas menu
         $("#menu-items li").removeClass("menu-active-item");
         $("#menu-items li:first-child").addClass("menu-active-item");
