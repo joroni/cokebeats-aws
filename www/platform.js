@@ -1,4 +1,4 @@
-cordova.define("cordova-plugin-splashscreen.SplashScreen", function(require, exports, module) { /*
+/*
  *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -19,17 +19,30 @@ cordova.define("cordova-plugin-splashscreen.SplashScreen", function(require, exp
  *
 */
 
-var exec = require('cordova/exec');
+module.exports = {
+    id: 'browser',
+    cordovaVersion: '3.4.0',
 
-var splashscreen = {
-    show:function() {
-        exec(null, null, "SplashScreen", "show", []);
-    },
-    hide:function() {
-        exec(null, null, "SplashScreen", "hide", []);
+    bootstrap: function() {
+
+        var modulemapper = require('cordova/modulemapper');
+        var channel = require('cordova/channel');
+
+        modulemapper.clobbers('cordova/exec/proxy', 'cordova.commandProxy');
+
+        channel.onNativeReady.fire();
+
+        // FIXME is this the right place to clobber pause/resume? I am guessing not
+        // FIXME pause/resume should be deprecated IN CORDOVA for pagevisiblity api
+        document.addEventListener('webkitvisibilitychange', function() {
+            if (document.webkitHidden) {
+                channel.onPause.fire();
+            }
+            else {
+                channel.onResume.fire();
+            }
+        }, false);
+
+    // End of bootstrap
     }
 };
-
-module.exports = splashscreen;
-
-});

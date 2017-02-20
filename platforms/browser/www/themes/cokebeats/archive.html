@@ -8,6 +8,7 @@
 
 
 	/* RAYMUND CUSTOM SCRIPT. Intended for tracking user count */
+
 	function formatAMPM(date) { // This is to display 12 hour format like you asked
 		var hours = date.getHours();
 		var minutes = date.getMinutes();
@@ -51,12 +52,6 @@
 	var CB_username = ( obj.user_login );
 
 
-
-	var data = temp_data;
-	console.log(data);
-	var obj = jQuery.parseJSON( data );
-	//alert( obj.user_login );
-	var CB_username = ( obj.user_login );
 
 	console.log('Date Joined: ', date_joined_cb);
 	localStorage.setItem('Coke-Beats-info', CB_username + ':' + date_joined_cb);
@@ -133,6 +128,9 @@
 		localStorage.setItem('Coke-Beats-info', CB_username +':'+ date_joined_cb);
 		console.log('Logged In');
 	}
+	else {
+		  window.location.replace('index.html#login-page');
+	}
 
 
 	// RAYMUND CUSTOM
@@ -140,6 +138,14 @@
 
 
 <div id="archive">
+
+		<input id="track_username" value="" type="hidden"/>
+		<input id="track_date" value="" type="hidden"/>
+		<input id="track_click" value="" type="hidden"/>
+	    <input id="score_bottle" value="" type="hidden"/>
+	    <input id="divisions" value="1" type="hidden"/>
+	    <input id="area" value="1" type="hidden"/>
+	    <input id="aunit" value="1" type="hidden"/>
 
 	<% if(posts.length) { %>
 
