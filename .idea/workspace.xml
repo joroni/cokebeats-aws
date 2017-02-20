@@ -4,21 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" line="593" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/archive.html" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/archive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/custom.css" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/media.css" afterPath="$PROJECT_DIR$/platforms/browser/www/themes/cokebeats/css/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/archive.html" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/archive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/css/custom.css" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/css/media.css" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/cokebeats/css/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/archive.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/archive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
-    </list>
+    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="" />
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -510,7 +496,7 @@
       <workItem from="1487579744703" duration="660000" />
       <workItem from="1487582379230" duration="704000" />
       <workItem from="1487583739175" duration="3596000" />
-      <workItem from="1487611047029" duration="266000" />
+      <workItem from="1487611047029" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -530,7 +516,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129290000" />
+    <option name="totallyTimeSpent" value="129698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />

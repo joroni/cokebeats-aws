@@ -26,8 +26,8 @@
 
 	var myDate = new Date();
 	var myMonth = myDate.getMonth()+1;
-	var displayDate = myDate.getFullYear() + '-' + myMonth + '-' +myDate.getDate() ;
-	//var displayDate = myMonth + '-' +myDate.getDate()+ '-' +myDate.getFullYear();
+	//var displayDate = myDate.getFullYear() + '-' + myMonth + '-' +myDate.getDate() ;
+	var displayDate = myMonth + '-' +myDate.getDate()+ '-' +myDate.getFullYear();
 	//var displayDate = myDate.getFullYear() + '-' +myMonth + '-' +myDate.getDate();
 	var displayTime = formatAMPM(myDate);
 	console.log(displayDate);

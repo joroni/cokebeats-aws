@@ -1,6 +1,6 @@
 .square,   .media-object-thumb {
     position: relative;
-    width: 75%;
+    width: 75% !important;
 }
 
 .square:after,   .media-object-thumb:after {
@@ -312,10 +312,7 @@
 
 
 
-    .media-object-thumb {
-        width: 230px;
-        height: 230px;
-    }
+  
 
     .top-banner {
         display: none;
