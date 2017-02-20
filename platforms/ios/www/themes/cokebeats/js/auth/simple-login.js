@@ -99,11 +99,8 @@ var $user_info = $('#user-info');
 			$('#userlogin').val(), 
 			$('#userpass').val(),
 			$('#user-info').hide(),
-			
-		console.log('Ok')
 
-		);
-
+		console.log('Ok'));
 	} );
 	
 	/**

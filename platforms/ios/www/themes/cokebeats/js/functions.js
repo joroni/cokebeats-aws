@@ -1075,7 +1075,13 @@ define([
         if (localStorage['Authentication-coke-beats-Authentication-coke-beats']) {
             //window.location.replace("main.html");
             console.log('Logged In');
-           // $('#logoutBtn').show();
+
+
+
+         
+
+
+            // $('#logoutBtn').show();
            window.location.replace('index.html#component-allnewsletters');
         } else {
             console.log('Logged Out');
