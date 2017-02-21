@@ -7,7 +7,7 @@ define( function ( require ) {
 		wp_ws_url : 'http://ec2-54-214-99-121.us-west-2.compute.amazonaws.com/cokebeats/wp-appkit-api/coke-beats',
 		wp_url : 'http://ec2-54-214-99-121.us-west-2.compute.amazonaws.com/cokebeats',
 		theme : 'cokebeats',
-		version : '1.0',
+		version : '1.0.38',
 		app_title : 'Coke Beats',
 		app_platform : 'ios',
 		gmt_offset : 0,
