@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats.zip" afterPath="$PROJECT_DIR$/www/themes/cokebeats.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/layout.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/layout.html" />
-    </list>
+    <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="" />
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="-105">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,11 +37,11 @@
             <state relative-caret-position="-15407">
               <caret line="31" column="31" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="31" />
               <folding>
-                <marker date="1487676138000" expanded="true" signature="14841:14881" placeholder="..." />
-                <marker date="1487676138000" expanded="true" signature="14996:15038" placeholder="..." />
-                <marker date="1487676138000" expanded="true" signature="15358:15400" placeholder="..." />
-                <marker date="1487676138000" expanded="true" signature="22394:22434" placeholder="..." />
-                <marker date="1487676138000" expanded="true" signature="23168:23210" placeholder="..." />
+                <marker date="1487647338000" expanded="true" signature="14841:14881" placeholder="..." />
+                <marker date="1487647338000" expanded="true" signature="14996:15038" placeholder="..." />
+                <marker date="1487647338000" expanded="true" signature="15358:15400" placeholder="..." />
+                <marker date="1487647338000" expanded="true" signature="22394:22434" placeholder="..." />
+                <marker date="1487647338000" expanded="true" signature="23168:23210" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -227,24 +224,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cokebeats-aws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cokebeats-aws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -471,7 +450,7 @@
       <workItem from="1487583739175" duration="3596000" />
       <workItem from="1487611047029" duration="674000" />
       <workItem from="1487665743736" duration="7988000" />
-      <workItem from="1487682744523" duration="795000" />
+      <workItem from="1487682744523" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -491,7 +470,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138481000" />
+    <option name="totallyTimeSpent" value="138606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -503,7 +482,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="1" />
+    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.75934577" order="0" side_tool="false" content_ui="combo" />
@@ -818,11 +797,11 @@
         <state relative-caret-position="-15407">
           <caret line="31" column="31" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="31" />
           <folding>
-            <marker date="1487676138000" expanded="true" signature="14841:14881" placeholder="..." />
-            <marker date="1487676138000" expanded="true" signature="14996:15038" placeholder="..." />
-            <marker date="1487676138000" expanded="true" signature="15358:15400" placeholder="..." />
-            <marker date="1487676138000" expanded="true" signature="22394:22434" placeholder="..." />
-            <marker date="1487676138000" expanded="true" signature="23168:23210" placeholder="..." />
+            <marker date="1487647338000" expanded="true" signature="14841:14881" placeholder="..." />
+            <marker date="1487647338000" expanded="true" signature="14996:15038" placeholder="..." />
+            <marker date="1487647338000" expanded="true" signature="15358:15400" placeholder="..." />
+            <marker date="1487647338000" expanded="true" signature="22394:22434" placeholder="..." />
+            <marker date="1487647338000" expanded="true" signature="23168:23210" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -845,8 +824,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="-105">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
