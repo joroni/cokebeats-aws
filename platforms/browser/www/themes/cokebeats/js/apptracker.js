@@ -109,7 +109,7 @@ function post_score_new() {
 }
 
 
-$('.archive, .media-object-thumb').on('click', function () {
+$('.single-content, .media-object-thumb, .back-button').on('click', function () {
     post_score_new();
     num_access ++;
 

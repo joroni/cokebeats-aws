@@ -5,8 +5,12 @@
  * Custom post date: getCustomDate() added in functions.js as a template's parameter
  * Handler for image loading error: displayDefaultImage() added in functions.js as a template's parameter
 -->
+<!-- RAYMUND CUSTOM SCRIPT. Intended for tracking user count -->
+<script src="themes/cokebeats/js/apptracker.js" type="text/javascript"></script>
+<!-- RAYMUND CUSTOM SCRIPT. Intended for tracking user count -->
 
 <div class="commentbox">
+
     <!--<span style="color: #d10000;"> <%= TemplateTags.formatDate(post.date,'d/m/Y') %> | </span>-->
   <!--[  <a  class="comments" style="color:#8e8e8e !important;" data-post-id="<%= post.id %>" href="#"><%
         print(post.nb_comments) %>&nbsp;</a>-->
@@ -51,15 +55,26 @@
 
     <% } %>
            -->
-
+    <input class ="track_username" value="" type="hidden"/>
+    <input class="track_date" value="" type="hidden"/>
+    <input class="track_click" value="" type="hidden"/>
+    <input class="score_bottle" value="" type="hidden"/>
+    <input class="divisions" value="1" type="hidden"/>
+    <input class="area" value="1" type="hidden"/>
+    <input class ="aunit" value="1" type="hidden"/>
 
     <div id="single-content" class="single-content">
+
+
+
+
+
         <div class=" swiper-container swiper-container-horizontal">
             <div class="swiper-wrapper">
                 <%= post.content %>
+<!--
 
-
-<input type="hidden" value="<%= post.my_meta %>">
+<input type="hidden" value="<%= post.my_meta %>">-->
             </div>
         </div>
     </div>
