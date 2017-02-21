@@ -26,8 +26,8 @@
 
 	var myDate = new Date();
 	var myMonth = myDate.getMonth()+1;
-	//var displayDate = myDate.getFullYear() + '-' + myMonth + '-' +myDate.getDate() ;
-	var displayDate = myMonth + '-' +myDate.getDate()+ '-' +myDate.getFullYear();
+	var displayDate = myDate.getFullYear() + '-' + myMonth + '-' +myDate.getDate() ;
+	//var displayDate = myMonth + '-' +myDate.getDate()+ '-' +myDate.getFullYear();
 	//var displayDate = myDate.getFullYear() + '-' +myMonth + '-' +myDate.getDate();
 	var displayTime = formatAMPM(myDate);
 	console.log(displayDate);
@@ -40,9 +40,9 @@
 	//today = today.format("yyyy-mm-dd");
 	var date_joined_cb = displayDate;
 	var time_joined_cb = displayTime;
-if (localStorage['Authentication-coke-beats-Authentication-coke-beats']){
-	var temp_data = localStorage.getItem('Authentication-coke-beats-Authentication-coke-beats');
-	var num_access  = 1;
+	if (localStorage['Authentication-coke-beats-Authentication-coke-beats']){
+		var temp_data = localStorage.getItem('Authentication-coke-beats-Authentication-coke-beats');
+		var num_access  = 1;
 
 
 		var data = temp_data;
@@ -51,10 +51,10 @@ if (localStorage['Authentication-coke-beats-Authentication-coke-beats']){
 		//alert( obj.user_login );
 		var CB_username = ( obj.user_login );
 
-} else {
-	//alert('login');
-	      window.location.replace('index.html#login-page');
-}
+	} else {
+		//alert('login');
+		window.location.replace('index.html#login-page');
+	}
 
 
 
@@ -145,13 +145,13 @@ if (localStorage['Authentication-coke-beats-Authentication-coke-beats']){
 
 <div id="archive">
 
-		<input id="track_username" value="" type="hidden"/>
-		<input id="track_date" value="" type="hidden"/>
-		<input id="track_click" value="" type="hidden"/>
-	    <input id="score_bottle" value="" type="hidden"/>
-	    <input id="divisions" value="1" type="hidden"/>
-	    <input id="area" value="1" type="hidden"/>
-	    <input id="aunit" value="1" type="hidden"/>
+	<input id="track_username" value="" type="hidden"/>
+	<input id="track_date" value="" type="hidden"/>
+	<input id="track_click" value="" type="hidden"/>
+	<input id="score_bottle" value="" type="hidden"/>
+	<input id="divisions" value="1" type="hidden"/>
+	<input id="area" value="1" type="hidden"/>
+	<input id="aunit" value="1" type="hidden"/>
 
 	<% if(posts.length) { %>
 
