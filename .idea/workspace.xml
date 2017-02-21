@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-50@2x-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-76@2x-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-77.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-83.5@2x-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small@2x-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images_custom.xcassets/AppIcon.appiconset/icon-40@2x-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images_custom.xcassets/AppIcon.appiconset/icon-60@2x-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images_custom.xcassets/AppIcon.appiconset/icon-small-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images_custom.xcassets/AppIcon.appiconset/icon-small@2x-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images_custom.xcassets/AppIcon.appiconset/icon-small@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images_custom.xcassets/AppIcon.appiconset/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images_custom.xcassets/AppIcon.appiconset/icon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images_custom.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-50@2x.psd" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats.xcodeproj/project.xcworkspace/xcuserdata/johnraymundniconi.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats.xcodeproj/project.xcworkspace/xcuserdata/johnraymundniconi.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-60@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-60@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-72.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-72@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-72@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small@3x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon@2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/Contents.json" />
     </list>
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,8 +94,8 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -490,7 +462,7 @@
       <workItem from="1487583739175" duration="3596000" />
       <workItem from="1487611047029" duration="674000" />
       <workItem from="1487665743736" duration="7988000" />
-      <workItem from="1487682744523" duration="1110000" />
+      <workItem from="1487682744523" duration="1226000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -510,7 +482,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138796000" />
+    <option name="totallyTimeSpent" value="138912000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -873,8 +845,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding />
         </state>
       </provider>
