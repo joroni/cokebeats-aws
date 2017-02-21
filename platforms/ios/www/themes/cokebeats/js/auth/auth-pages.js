@@ -19,7 +19,7 @@ define( [ 'jquery', 'core/theme-app', 'core/modules/authentication' ], function(
 	 * tells the app that #user-page will lead to the user page, using the "user-page.html" template
 	 */
 	App.addCustomRoute( 'user-page', 'user-page' );
-
+	
 	/**
 	 * If we try to go to the user page without being connected, we
 	 * redirect to the homepage.
@@ -80,44 +80,10 @@ define( [ 'jquery', 'core/theme-app', 'core/modules/authentication' ], function(
 		Auth.logUserIn( 
 			$('#user-login').val(), 
 			$('#user-pass').val()
-
 		);
-		console.log('logged');
-
-/***** ADDED THIS *********/
-
-		function check_storage() {
-
-			if (localStorage['Authentication-coke-beats-Authentication-coke-beats']) {
-				//window.location.replace("main.html");
-				console.log('Logged In');
-				// $('#logoutBtn').show();
-				window.location.reload();
-				//window.location.replace('index.html#component-allnewsletters');
-			} else {
-				console.log('Logged Out');
-				$('#logoutBtn').hide();
-				// $('#login-page').show();
-
-				window.location.replace('index.html#login-page');
-
-			}
-
-		}
-		loadPage();
-	//	window.location.replace('index.html');
-		function loadPage() {
-			$('#waiting').show();
-			setTimeout(check_storage, 3000);
-			
-		//	location.reload();
-			//check_storage();
-
-		}
-		/***** ADDED THIS *********/
 	} );
-
-
+	
+	
 	/**************************************************************************
 	 * Customize authentication feedback messages and errors
 	 */

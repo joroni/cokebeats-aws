@@ -404,9 +404,6 @@
             }
             else {
                 s.params.paginationClickable = false;
-              
-
-
             }
             s.paginationContainer.addClass('swiper-pagination-' + s.params.paginationType);
         }

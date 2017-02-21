@@ -27,7 +27,7 @@ define([
     'theme/photoswipe/photoswipe.min',
     'theme/photoswipe/photoswipe-ui-default.min',
     'theme/js/jquery.fitvids',
-    'theme/swiper/dist/js/swiper',
+    'swiper/dist/js/swiper',
     'theme/js/auth/auth-pages', 'theme/js/auth/simple-login',
     'theme/js/auth/premium-posts', 'theme/js/comments'
 
@@ -111,7 +111,7 @@ define([
 
     /*************** DUPLICATED touchend function and applied to on onclick instead, to reduce
      * unnintenional photozoom **/
-
+     
     $("#app-layout").on("click", ".single-content img", function () {
         console.log('click');
         img_dragging = false;
@@ -184,7 +184,7 @@ define([
      * App's parameters
      */
 
-    App.setParam('go-to-default-route-after-refresh', true); // Don't automatically show default screen after a refresh
+    App.setParam('go-to-default-route-after-refresh', false); // Don't automatically show default screen after a refresh
     App.setParam('custom-screen-rendering', true); // Don't use default transitions and displays for screens
 
 
@@ -386,18 +386,7 @@ define([
 
     };
 
-    $('.login').on('click', function (  ) {
 
-        $('#logoutBtn').show();
-        App.on('refresh:start', function () {
-
-            // Start refresh icon animation
-            $("#refresh-button").removeClass("refresh-off").addClass("refresh-on");
-            window.location.replace('index.html#component-allnewsletters');
-
-        });
-
-    });
     /**
      * App Events
      */
@@ -408,38 +397,34 @@ define([
         // Start refresh icon animation
         $("#refresh-button").removeClass("refresh-off").addClass("refresh-on");
 
-        $("#waiting").show();
     });
-
-
-
 
     // @desc Refresh process ends
     // @param result
     App.on('refresh:end', function ( result ) {
 
         // Navigate to the default screen
-      //  App.navigateToDefaultRoute();
+        App.navigateToDefaultRoute();
 
         Storage.clear('scroll-pos');    // Clear the previous memorized position in the local storage
 
         // The refresh icon stops to spin
         $("#refresh-button").removeClass("refresh-on").addClass("refresh-off");
-        $("#waiting").hide();
+
         // Select the current screen item in off-canvas menu
         $("#menu-items li").removeClass("menu-active-item");
         $("#menu-items li:first-child").addClass("menu-active-item");
 
         /**
          * Display if the refresh process is a success or not
-         * if an error occurs we should not reset scroll position
-         * messages should be centralized to ease translations
+         * @todo if an error occurs we should not reset scroll position
+         * @todo messages should be centralized to ease translations
          */
         if (result.ok) {
             showMessage('<div class="messageinfo" style="background: rgb(02,255,51); color: #333;">Content updated successfully</div>');
         } else {
             showMessage('<div class="messageinfo"  style="background: rgb(255,153,153); color: #333;">' + result.message + '</div>');
-             showMessage(result);
+            // showMessage(result);
 
         }
 
@@ -1058,7 +1043,6 @@ define([
     $('#LogOk').on('click', function ( e ) {
         e.preventDefault();
         localStorage.removeItem('Authentication-coke-beats-Authentication-coke-beats');
-        localStorage.removeItem('Authentication-coke-beats');
 
         window.location.replace('index.html');
         $('#logoutConfirmation').hide();
@@ -1075,22 +1059,11 @@ define([
 
         if (localStorage['Authentication-coke-beats-Authentication-coke-beats']) {
             //window.location.replace("main.html");
-            console.log('Logged In');
-
-
-
-         
-
-
-            // $('#logoutBtn').show();
-           window.location.replace('index.html#component-allnewsletters');
+            console.log('OK');
+            $('#logoutBtn').show();
         } else {
-            console.log('Logged Out');
+            console.log('err');
             $('#logoutBtn').hide();
-           // $('#login-page').show();
-
-            window.location.replace('index.html#login-page');
-
         }
 
     }
@@ -1098,25 +1071,7 @@ define([
     check_storage();
 
 
-    function loadPage() {
-        setTimeout(myFunction, 3000);
-        location.reload();
-
-    }
-
-
-   /* $('#SignIn-btn').on('click', function () {
-        App.setParam('go-to-default-route-after-refresh', true);
-
-    });
-    */
-
-    $('#Enter-btn').on('click', function () {
-        window.location.replace('index.html');
-        $('#logoutBtn').show();
-
-    });
-
-
 });
+
+
 

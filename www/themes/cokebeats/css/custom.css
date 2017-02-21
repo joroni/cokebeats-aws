@@ -62,8 +62,8 @@
 }
 
 .media-object-thumb {
-  /*  width: 125px;
-    height: 125px;*/
+    width: 125px;
+    height: 125px;
     margin: 0 auto;
     background-color: #d10000 !important;
     background-position: center center !important;
@@ -257,9 +257,8 @@ input[type="button"], button {
 }
 
 .row {
-    margin-left: -20px !important;
-    margin-right: -20px !important;
-    margin-bottom: 20px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }
 
 #app-content-wrapper {
@@ -331,11 +330,32 @@ footer label {
 /* border-left: 2px solid #d10000; */
 /*  font-font: "Roboto Condensed", helevtica, sans-serif;
 }*/
+.swiper-button-next, .swiper-button-prev, .swiper-pagination-bullet-active {
+    opacity: .0 !important;
+    cursor: auto;
+    pointer-events: none;
+}
 
-
-
-.media-title-inner:hover, .media-title-inner:active {
-    text-decoration: none;
+.media-title-inner {
+    color: #fff148 !important;
+    line-height: 0.98em;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center !important;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+    position: relative;
+    text-shadow: 1px 0 3px #000;
+    top: 24%;
+    width: 100%;
+    text-align: center;
+    /* border-left: 2px solid #d10000; */
+    font-family: "Roboto Condensed", helevtica, sans-serif !important;
+    font-weight: 500 !important;
+    width: 128px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 #user-info input[type="text"], #user-info input[type="password"] {
@@ -591,7 +611,7 @@ div#login-page form div.list-block.center {
 
 .swiper-button-next, .swiper-button-prev {
     position: absolute;
-    top: 40% !important;
+    top: 50%;
     width: 25px !important;
     height: 25px !important;
     margin-top: -22px;
@@ -620,13 +640,6 @@ div#login-page form div.list-block.center {
     -o-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
     z-index: 1000 !important;
-}
-
-
-.swiper-button-next.swiper-button-disabled, .swiper-button-prev.swiper-button-disabled {
-    opacity: .0 !important;
-    cursor: auto;
-    pointer-events: none;
 }
 
 .fa {
@@ -677,7 +690,7 @@ div#login-page form div.list-block.center {
     position: relative;
     overflow: hidden;
     z-index: 1;
-  /*  height: 480px !important;*/
+    height: 480px !important;
 }
 
 #single .wp-caption img, #single img {
@@ -974,7 +987,7 @@ div#comment {
     left: 0;
     height: 100% !important;
     width: 100%;
-    padding-bottom: 150px;
+    padding-bottom: 70px;
     background: url(img/coke-bottle.png) no-repeat !important;
     /* height: 100%; */
     background-size: auto 70% !important;
@@ -990,7 +1003,7 @@ div#comment {
     overflow-x: hidden;
     left: 0;
     margin-top: 0px !important;
-    padding-bottom: 150px !important;
+    padding-bottom: 70px;
     background: url(img/coke-bottle.png) no-repeat !important;
     /* height: 100%; */
     background-size: auto 70% !important;
@@ -1053,6 +1066,9 @@ div#back-button {
     -webkit-overflow-scrolling: touch;
 }
 
+div#back-button {
+    z-index: 20000;
+}
 
 .single-content p {
     font-family: 'HelveticaNeue-Medium', sans-serif !important;
@@ -1110,6 +1126,18 @@ div#slideup-panel {
     height: 100%;
 }
 
+div#logoutConfirmation {
+    position: absolute;
+    top: 40%;
+    height: 100px;
+    width: 100%;
+    background: #efefef;
+    z-index: 9999;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 18px rgba(0,0,0,0.4);
+}
+
 
 a.popupBtn {
     padding: 10px;
@@ -1118,7 +1146,7 @@ a.popupBtn {
 
 .comment-form {
     position: absolute;
-
+    top: 290px;
 }
 
 
@@ -1140,33 +1168,3 @@ a.popupBtn {
     margin:0;
 }
 
-
-.swiper-pagination-bullet-active {
-    background-color: none;
-    background: transparent !important;
-}
-
-
-h4, .h4, h5, .h5, h6, .h6 {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-family: 'HelveticaNeue-Medium', sans-serif !important;
-}
-
-
-div#logoutConfirmation {
-    position: absolute;
-    top: 40%;
-    height: auto !important;
-    width: 100%;
-    background: #fff;
-    z-index: 9999;
-    padding: 40px 20px;
-    text-align: center;
-    box-shadow: 0 0 18px rgba(0,0,0,0.4);
-}
-
-
-#logoutConfirmation h5 {
-    margin-bottom:30px;
-}
