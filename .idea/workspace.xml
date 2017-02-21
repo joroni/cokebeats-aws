@@ -2,233 +2,178 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/apptracker.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/kitchen-sink.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/media copy.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.ios.colors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.ios.colors.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.ios.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.ios.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.ios.rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.ios.rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.material.colors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.material.colors.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.material.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.material.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.material.rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/framework7.material.rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/css/my-app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-f7-ios.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-f7-material.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-calendar-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-calendar-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-comment-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-comment-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-email-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-email-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-gender-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-gender-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-name-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-name-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-password-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-password-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-settings-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-settings-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-tel-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-tel-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-toggle-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-toggle-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-url-ios.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/img/i-form-url-material.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/indexSample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/js/framework7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/js/framework7.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/js/framework7.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/js/framework7.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/js/my-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/dist/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/php/add-custom-data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/php/add-wpak-post-content-format.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/php/handle_my_post_metadata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/php/prepare-content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/php/prepare-images-for-photoswipe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/css/idangerous.swiper.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/css/idangerous.swiper.scrollbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/css/simple-app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/01-default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/02-responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/03-vertical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/04-space-between.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/05-slides-per-view.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/06-slides-per-view-auto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/07-centered.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/08-centered-auto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/09-freemode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/10-slides-per-column.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/11-nested.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/12-grab-cursor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/13-scrollbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/14-nav-arrows.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/15-infinite-loop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/16-effect-fade.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/17-effect-cube.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/18-effect-coverflow.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/19-keyboard-control.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/20-mousewheel-control.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/21-autoplay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/22-dynamic-slides.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/23-thumbs-gallery-loop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/23-thumbs-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/24-multiple-swipers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/25-hash-navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/26-rtl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/27-jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/28-parallax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/29-custom-pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/30-lazy-load-images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/31-custom-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/32-scroll-container.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/32-slideable-menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/33-responsive-breakpoints.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/34-autoheight.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/35-effect-flip.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/36-pagination-fraction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/37-pagination-progress.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/38-history.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/38-jquery-ie9-loop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/demos/39-zoom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/css/swiper.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/css/swiper.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/maps/swiper.jquery.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/maps/swiper.jquery.umd.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/maps/swiper.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/simple-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.jquery.umd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.jquery.umd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/dist/js/swiper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/img/gallery-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/img/gallery-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/img/gallery-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/img/gallery-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/img/gallery-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/img/gallery-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/img/gallery-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/js/idangerous.swiper-2.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/js/idangerous.swiper.scrollbar-2.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/js/simple-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/modules.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/package.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/playground/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/a11y.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/controller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/dom-plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/dom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/emitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/get-dom-lib.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/get-jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/hashnav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/history.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/keyboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/lazy-load.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/mousewheel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/parallax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/scrollbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/swiper-intro-f7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/swiper-intro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/swiper-outro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/swiper-proto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/wrap-end-umd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/wrap-end.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/wrap-start-umd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/wrap-start.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/js/zoom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/effects.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/navigation-f7.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/navigation.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/preloader-f7.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/preloader.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/scrollbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/swiper.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/swiper/src/less/zoom.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/user-page.BAKhtml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-40.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-40.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-50.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-50.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-50@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-50@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-60@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-60@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-76.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-76.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-76@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-76@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-83.5@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-83.5@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small@3x.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon-small@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon.png" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Images.xcassets/AppIcon.appiconset/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/fonts/PT-Serif-Regular.ttf" afterPath="$PROJECT_DIR$/www/themes/cokebeats/fonts/PT-Serif-Regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/screenshot.jpg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/screenshot.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Coke Beats-Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Coke Beats-Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/cordova.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-screen-orientation/www/screenorientation.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-screen-orientation/www/screenorientation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-statusbar/www/statusbar.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-statusbar/www/statusbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/LICENSE" afterPath="$PROJECT_DIR$/www/themes/cokebeats/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/archive.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/archive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/comments.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/comments.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/common.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/post-detail.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/post-detail.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/css/post-list.css" afterPath="$PROJECT_DIR$/www/themes/cokebeats/css/post-list.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/photoswipe/default-skin/default-skin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/photoswipe/default-skin/default-skin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/photoswipe/default-skin/default-skin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/photoswipe/default-skin/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/photoswipe/photoswipe-ui-default.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/photoswipe/photoswipe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/themes/cokebeats/photoswipe/photoswipe.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.ios.colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.ios.colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.ios.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.ios.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.ios.rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.ios.rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.material.colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.material.colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.material.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.material.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.material.rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/framework7.material.rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/kitchen-sink.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/css/my-app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-f7-ios.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-f7-material.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-calendar-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-calendar-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-comment-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-comment-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-email-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-email-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-gender-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-gender-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-name-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-name-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-password-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-password-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-settings-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-settings-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-tel-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-tel-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-toggle-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-toggle-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-url-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/img/i-form-url-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/indexSample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/js/framework7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/js/framework7.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/js/framework7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/js/framework7.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/js/my-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/framework7/services.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/css/idangerous.swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/css/idangerous.swiper.scrollbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/css/simple-app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/01-default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/02-responsive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/03-vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/04-space-between.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/05-slides-per-view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/06-slides-per-view-auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/07-centered.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/08-centered-auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/09-freemode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/10-slides-per-column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/11-nested.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/12-grab-cursor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/13-scrollbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/14-nav-arrows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/15-infinite-loop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/16-effect-fade.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/17-effect-cube.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/18-effect-coverflow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/19-keyboard-control.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/20-mousewheel-control.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/21-autoplay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/22-dynamic-slides.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/23-thumbs-gallery-loop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/23-thumbs-gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/24-multiple-swipers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/25-hash-navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/26-rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/27-jquery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/28-parallax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/29-custom-pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/30-lazy-load-images.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/31-custom-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/32-scroll-container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/32-slideable-menu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/33-responsive-breakpoints.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/34-autoheight.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/35-effect-flip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/36-pagination-fraction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/37-pagination-progress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/38-history.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/38-jquery-ie9-loop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/demos/39-zoom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/css/swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/css/swiper.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/maps/swiper.jquery.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/maps/swiper.jquery.umd.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/maps/swiper.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/simple-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/swiper.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/swiper.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/swiper.jquery.umd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/swiper.jquery.umd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/dist/js/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/img/gallery-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/img/gallery-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/img/gallery-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/img/gallery-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/img/gallery-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/img/gallery-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/img/gallery-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/js/idangerous.swiper-2.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/js/idangerous.swiper.scrollbar-2.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/js/simple-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/modules.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/package.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/playground/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/a11y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/dom-plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/emitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/get-dom-lib.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/get-jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/hashnav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/history.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/keyboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/lazy-load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/parallax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/scrollbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/swiper-intro-f7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/swiper-intro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/swiper-outro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/swiper-proto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/wrap-end-umd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/wrap-end.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/wrap-start-umd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/wrap-start.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/js/zoom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/effects.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/navigation-f7.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/navigation.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/preloader-f7.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/preloader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/scrollbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/swiper.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/swiper/src/less/zoom.less" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/head.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/back-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/back-icon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/camera-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/camera-icon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/img-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/img-icon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/menu-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/menu-icon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/refresh-off-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/refresh-off-icon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/img/refresh-on-icon.svg" afterPath="$PROJECT_DIR$/www/themes/cokebeats/img/refresh-on-icon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/auth-pages.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/auth/simple-login.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.BAKjs" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.BAKjs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/headroom.min.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/headroom.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/jquery.fitvids.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/jquery.fitvids.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/moment.min.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/moment.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/js/velocity.min.js" afterPath="$PROJECT_DIR$/www/themes/cokebeats/js/velocity.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/layout.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/login-page.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/login-page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/menu.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/page.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/readme.md" afterPath="$PROJECT_DIR$/www/themes/cokebeats/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/single.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/themes/cokebeats/user-page.html" afterPath="$PROJECT_DIR$/www/themes/cokebeats/user-page.html" />
     </list>
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -306,14 +251,14 @@
       <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+            <state relative-caret-position="180">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
               <folding>
-                <marker date="1487674523000" expanded="true" signature="14821:14861" placeholder="..." />
-                <marker date="1487674523000" expanded="true" signature="14976:15018" placeholder="..." />
-                <marker date="1487674523000" expanded="true" signature="15338:15380" placeholder="..." />
-                <marker date="1487674523000" expanded="true" signature="22374:22414" placeholder="..." />
-                <marker date="1487674523000" expanded="true" signature="23148:23190" placeholder="..." />
+                <marker date="1487676138000" expanded="true" signature="14841:14881" placeholder="..." />
+                <marker date="1487676138000" expanded="true" signature="14996:15038" placeholder="..." />
+                <marker date="1487676138000" expanded="true" signature="15358:15400" placeholder="..." />
+                <marker date="1487676138000" expanded="true" signature="22394:22434" placeholder="..." />
+                <marker date="1487676138000" expanded="true" signature="23168:23210" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -334,18 +279,8 @@
       <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="archive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/themes/cokebeats2/archive.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="51" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="51" />
+            <state relative-caret-position="270">
+              <caret line="45" column="64" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -474,54 +409,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cokebeats-aws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cokebeats-aws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cokebeats-aws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cokebeats-aws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -766,7 +653,7 @@
       <workItem from="1487582379230" duration="704000" />
       <workItem from="1487583739175" duration="3596000" />
       <workItem from="1487611047029" duration="674000" />
-      <workItem from="1487665743736" duration="6490000" />
+      <workItem from="1487665743736" duration="6933000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -786,7 +673,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136188000" />
+    <option name="totallyTimeSpent" value="136631000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1175,14 +1062,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1487673423000" expanded="true" signature="15222:15262" placeholder="..." />
-            <marker date="1487673423000" expanded="true" signature="15377:15419" placeholder="..." />
-            <marker date="1487673423000" expanded="true" signature="15737:15779" placeholder="..." />
-            <marker date="1487673423000" expanded="true" signature="22773:22813" placeholder="..." />
-            <marker date="1487673423000" expanded="true" signature="23547:23589" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1230,22 +1110,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        <state relative-caret-position="180">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
           <folding>
-            <marker date="1487674523000" expanded="true" signature="14821:14861" placeholder="..." />
-            <marker date="1487674523000" expanded="true" signature="14976:15018" placeholder="..." />
-            <marker date="1487674523000" expanded="true" signature="15338:15380" placeholder="..." />
-            <marker date="1487674523000" expanded="true" signature="22374:22414" placeholder="..." />
-            <marker date="1487674523000" expanded="true" signature="23148:23190" placeholder="..." />
+            <marker date="1487676138000" expanded="true" signature="14841:14881" placeholder="..." />
+            <marker date="1487676138000" expanded="true" signature="14996:15038" placeholder="..." />
+            <marker date="1487676138000" expanded="true" signature="15358:15400" placeholder="..." />
+            <marker date="1487676138000" expanded="true" signature="22394:22434" placeholder="..." />
+            <marker date="1487676138000" expanded="true" signature="23168:23210" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+        <state relative-caret-position="270">
+          <caret line="45" column="64" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
           <folding />
         </state>
       </provider>

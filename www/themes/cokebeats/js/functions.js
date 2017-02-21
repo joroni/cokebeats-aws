@@ -24,10 +24,10 @@ define([
     'root/config',
     'theme/js/moment.min',
     'theme/js/velocity.min',
-    'theme/photoswipe/photoswipe.min',
-    'theme/photoswipe/photoswipe-ui-default.min',
+    'theme/vendor/photoswipe/photoswipe.min',
+    'theme/vendor/photoswipe/photoswipe-ui-default.min',
     'theme/js/jquery.fitvids',
-    'swiper/dist/js/swiper',
+    'theme/swiper/dist/js/swiper',
     'theme/js/auth/auth-pages', 'theme/js/auth/simple-login',
     'theme/js/auth/premium-posts', 'theme/js/comments'
 
