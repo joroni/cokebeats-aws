@@ -7,7 +7,7 @@
 <!--Inline styles you will likely throw away-->
 <link rel="stylesheet" href="css/framework7.ios.min.css">
 <link rel="stylesheet" href="css/framework7.ios.colors.min.css">
-
+<link rel="stylesheet" href="css/framework7-icons.css">
 <link rel="stylesheet" href="css/media.css">
 <link rel="stylesheet" href="css/my-app.css">
 
@@ -21,7 +21,11 @@
            <div id="tab1" class="view tab active">
               <div class="navbar">
                  <div class="navbar-inner">
-                    <div class="center">View 1</div>
+                   <div class="left"></div>
+                    <div class="center">
+                      <h2><img src="img/logo.png" style="height: auto; width: 170px;"></h2>
+                    </div>
+                    <div class="right"></div>
                  </div>
               </div>
               <div class="pages navbar-fixed">
@@ -40,7 +44,7 @@
                                  </div>
                                <!--  <div class="date">{{item.date | formatDate}}</div>
                                  <div class="desc">{{{item.excerpt.rendered | removeMoreLink}}}</div>-->
-                            
+
                              </div>
 
                          </div>
@@ -85,7 +89,7 @@
               </div>
            </div>
            <div class="toolbar tabbar">
-              <div class="toolbar-inner"><a href="#tab1" class="tab-link active"> <i class="icon demo-icon-1"></i></a><a href="#tab2" class="tab-link"><i class="icon demo-icon-2"></i></a><a href="#tab3" class="tab-link"><i class="icon demo-icon-3"></i></a></div>
+              <div class="toolbar-inner"><a href="#tab1" class="tab-link active"> <i class="f7-icons size-20">home</i></a><a href="#tab2" class="tab-link"><i class="f7-icons size-20">refresh</i></a><a href="#tab3" class="tab-link"><i class="f7-icons size-20">person</i></a></div>
            </div>
         </div>
 
