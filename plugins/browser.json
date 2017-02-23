@@ -8,21 +8,21 @@
     },
     "installed_plugins": {
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.coca-cola.cokebeats"
+            "PACKAGE_NAME": "com.ko.cokebeats"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.coca-cola.cokebeats"
+            "PACKAGE_NAME": "com.ko.cokebeats"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.coca-cola.cokebeats"
+            "PACKAGE_NAME": "com.ko.cokebeats"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.coca-cola.cokebeats"
+            "PACKAGE_NAME": "com.ko.cokebeats"
         },
         "cordova-plugin-screen-orientation": {
-            "PACKAGE_NAME": "com.coca-cola.cokebeats"
+            "PACKAGE_NAME": "com.ko.cokebeats"
         }
     }
 }

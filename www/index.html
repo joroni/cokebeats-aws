@@ -1,25 +1,104 @@
-<!DOCTYPE html>
 <html>
-	<head>
-		<script src="cordova.js"></script>
-		
-		<link rel="stylesheet" href="core/css/debug.css">
-		<script type="text/javascript">
-			var require = {
-				urlArgs : "bust="+ new Date().getTime()
-			};
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <title>Coke Beats</title>
+<!--Inline styles you will likely throw away-->
+<link rel="stylesheet" href="css/framework7.ios.min.css">
+<link rel="stylesheet" href="css/framework7.ios.colors.min.css">
 
-			var wpak_open_url = '';
-			window.handleOpenURL = function( url ) {
-			    wpak_open_url = url;
-			};
-		</script>
+<link rel="stylesheet" href="css/media.css">
+<link rel="stylesheet" href="css/my-app.css">
 
-		<script data-main="core/launch.js" src="vendor/require.js"></script>
-	</head>
-	<body>
-		<div id="app-layout"></div>
-		<div id="app-debug-panel"></div>
-		<div id="app-debug-button"></div>
-	</body>
+
+</head>
+<!--Copy the stuff between the body tags and add it to your webpage-->
+<body>
+
+
+  <div class="views tabs toolbar-fixed">
+           <div id="tab1" class="view tab active">
+              <div class="navbar">
+                 <div class="navbar-inner">
+                    <div class="center">View 1</div>
+                 </div>
+              </div>
+              <div class="pages navbar-fixed">
+                 <div data-page="home-1" class="page">
+                    <div class="page-content">
+                       <div class="content-block">
+                         <div id="post_feed">
+                           <div class="loading" v-show="loading">loading...</div><!--You will probably want to just remove this line-->
+                           <div class="row">
+
+
+                               <div class="item col-50" v-for="item in items | more showed">
+                                 <div class="thumb media-object-thumb" v-thumb="item.featured_media" v-show="item.featured_media">
+
+                                     <a href="{{item.link}}" target="_blank" class="title media-title-inner">{{item.title.rendered}}</a>
+                                 </div>
+                               <!--  <div class="date">{{item.date | formatDate}}</div>
+                                 <div class="desc">{{{item.excerpt.rendered | removeMoreLink}}}</div>-->
+                            
+                             </div>
+
+                         </div>
+                           <button class="more" @click="showMore" v-show="items.length > showed">show more</button>
+
+                         </div>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </div>
+           <div id="tab2" class="view tab">
+              <div class="navbar">
+                 <div class="navbar-inner">
+                    <div class="center">View 2</div>
+                 </div>
+              </div>
+              <div class="pages navbar-fixed">
+                 <div data-page="home-2" class="page">
+                    <div class="page-content">
+                       <div class="content-block">
+                          <p>This is view 2</p>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </div>
+           <div id="tab3" class="view tab">
+              <div class="navbar">
+                 <div class="navbar-inner">
+                    <div class="center">View 3</div>
+                 </div>
+              </div>
+              <div class="pages navbar-fixed">
+                 <div data-page="home-3" class="page">
+                    <div class="page-content">
+                       <div class="content-block">
+                          <p>This is view 3</p>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </div>
+           <div class="toolbar tabbar">
+              <div class="toolbar-inner"><a href="#tab1" class="tab-link active"> <i class="icon demo-icon-1"></i></a><a href="#tab2" class="tab-link"><i class="icon demo-icon-2"></i></a><a href="#tab3" class="tab-link"><i class="icon demo-icon-3"></i></a></div>
+           </div>
+        </div>
+
+  <script type="text/javascript" src="js/framework7.min.js"></script>
+  <script type="text/javascript" src="js/framework7-vue.min.js"></script>
+<script src="vue.min.js"></script>
+<script src="vue-resource.min.js"></script>
+<script src="js/app.js"></script>
+<script src="script.js"></script>
+<script src="js/jquery.js"></script>
+<script>
+$('.media-title-inner').slice(0,5);
+
+</script>
+</body>
 </html>
