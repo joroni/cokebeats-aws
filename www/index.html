@@ -17,7 +17,7 @@
 <body>
 
 
-  <div class="views tabs toolbar-fixed">
+      <div class="views tabs toolbar-fixed">
            <div id="tab1" class="view tab active">
               <div class="navbar">
                  <div class="navbar-inner">
@@ -33,14 +33,21 @@
                     <div class="page-content">
                        <div class="content-block">
                          <div id="post_feed">
-                           <div class="loading" v-show="loading">loading...</div><!--You will probably want to just remove this line-->
+
+                           <!-- Default with custom size -->
+                          <div class="loading" v-show="loading">
+                            <span style="width:42px; height:42px" class="preloader"  ></span>
+                          </div>
+
+
+                        <!--   <div class="loading" v-show="loading">loading...</div>You will probably want to just remove this line-->
                            <div class="row">
 
 
                                <div class="item col-50" v-for="item in items | more showed">
                                  <div class="thumb media-object-thumb" v-thumb="item.featured_media" v-show="item.featured_media">
 
-                                     <a href="{{item.link}}" target="_blank" class="title media-title-inner">{{item.title.rendered}}</a>
+                                     <a href="{{item.link}}" target="_blank" class="title media-title-inner"><tit>{{item.title.rendered}}</tit></a>
                                  </div>
                                <!--  <div class="date">{{item.date | formatDate}}</div>
                                  <div class="desc">{{{item.excerpt.rendered | removeMoreLink}}}</div>-->
@@ -89,7 +96,7 @@
               </div>
            </div>
            <div class="toolbar tabbar">
-              <div class="toolbar-inner"><a href="#tab1" class="tab-link active"> <i class="f7-icons size-20">home</i></a><a href="#tab2" class="tab-link"><i class="f7-icons size-20">refresh</i></a><a href="#tab3" class="tab-link"><i class="f7-icons size-20">person</i></a></div>
+              <div class="toolbar-inner"><a href="#home-1"" class="tab-link active"> <i class="f7-icons size-20">home</i></a><a href="#tab2" class="tab-link"><i class="f7-icons size-20">refresh</i></a><a href="#tab3" class="tab-link"><i class="f7-icons size-20">person</i></a></div>
            </div>
         </div>
 
