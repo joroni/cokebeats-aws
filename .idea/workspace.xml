@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9714c600-ada9-4827-b950-bcd9391fb8b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/config.xml" afterPath="$PROJECT_DIR$/platforms/browser/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/config.xml" afterPath="$PROJECT_DIR$/platforms/browser/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/cordova-js-src/exec.js" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova-js-src/exec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/cordova-js-src/platform.js" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova-js-src/platform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/cordova.js" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/Coke Beats-Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/Coke Beats-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Coke Beats/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/Coke Beats/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/cordova.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-screen-orientation/www/screenorientation.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-screen-orientation/www/screenorientation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-statusbar/www/statusbar.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-statusbar/www/statusbar.js" />
     </list>
     <ignored path="cokebeats-aws.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +42,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
+            <state relative-caret-position="165">
               <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
@@ -36,7 +52,7 @@
       <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15407">
+            <state relative-caret-position="210">
               <caret line="31" column="31" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="31" />
               <folding>
                 <marker date="1487647338000" expanded="true" signature="14841:14881" placeholder="..." />
@@ -52,7 +68,7 @@
       <file leaf-file-name="apptracker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/apptracker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="1635">
               <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
               <folding />
             </state>
@@ -74,7 +90,7 @@
       <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-374">
+            <state relative-caret-position="675">
               <caret line="45" column="64" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
               <folding />
             </state>
@@ -84,7 +100,7 @@
       <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
+            <state relative-caret-position="420">
               <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               <folding />
             </state>
@@ -104,7 +120,7 @@
       <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
+            <state relative-caret-position="975">
               <caret line="65" column="27" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="27" />
               <folding />
             </state>
@@ -187,8 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,13 +259,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cokebeats-softrelease" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -444,7 +460,9 @@
       <workItem from="1487583739175" duration="3596000" />
       <workItem from="1487611047029" duration="674000" />
       <workItem from="1487665743736" duration="7988000" />
-      <workItem from="1487682744523" duration="1965000" />
+      <workItem from="1487682744523" duration="3373000" />
+      <workItem from="1487744526829" duration="511000" />
+      <workItem from="1487750282943" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1476945921444</created>
@@ -464,7 +482,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139651000" />
+    <option name="totallyTimeSpent" value="141920000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -476,16 +494,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="726" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.75934577" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.7313084" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49722" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32704404" sideWeight="0.50913423" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49722" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49722" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.2406542" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.2686916" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -773,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
+        <state relative-caret-position="975">
           <caret line="65" column="27" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="27" />
           <folding />
         </state>
@@ -781,7 +799,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15407">
+        <state relative-caret-position="210">
           <caret line="31" column="31" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="31" />
           <folding>
             <marker date="1487647338000" expanded="true" signature="14841:14881" placeholder="..." />
@@ -795,7 +813,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/js/apptracker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="1635">
           <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
           <folding />
         </state>
@@ -803,7 +821,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
+        <state relative-caret-position="675">
           <caret line="45" column="64" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
           <folding />
         </state>
@@ -811,7 +829,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/themes/cokebeats/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="420">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding />
         </state>
@@ -827,7 +845,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
+        <state relative-caret-position="165">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>

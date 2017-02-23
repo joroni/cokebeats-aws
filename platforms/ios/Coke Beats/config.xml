@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="1032" id="com.coca-cola.cokebeats" ios-CFBundleVersion="1.0.32" version="1.0.32" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.ko.cokebeats" version="1.0.38" versionCode="" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
@@ -29,44 +29,38 @@
         <param name="ios-package" value="CDVStatusBar" />
         <param name="onload" value="true" />
     </feature>
+    <script id="tinyhippos-injected" />
     <name>Coke Beats</name>
-    <description>Newsletter App</description>
-    <author email="cosay@coca-cola.com" href="http://coca-cola.com">SDC Manila Team</author>
-    <content src="index.html" />
-    <icon src="icon.png" />
-    <icon gap:platform="android" gap:qualifier="ldpi" src="www/res/icon/android/icon-36-ldpi.png" />
-    <icon gap:platform="android" gap:qualifier="mdpi" src="www/res/icon/android/icon-48-mdpi.png" />
-    <icon gap:platform="android" gap:qualifier="hdpi" src="www/res/icon/android/icon-72-hdpi.png" />
-    <icon gap:platform="android" gap:qualifier="xhdpi" src="www/res/icon/android/icon-96-xhdpi.png" />
-    <icon gap:platform="blackberry" src="www/res/icon/blackberry/icon-80.png" />
-    <icon gap:platform="blackberry" gap:state="hover" src="www/res/icon/blackberry/icon-80.png" />
-    <icon gap:platform="ios" height="57" src="www/res/icon/ios/icon-57.png" width="57" />
-    <icon gap:platform="ios" height="72" src="www/res/icon/ios/icon-72.png" width="72" />
-    <icon gap:platform="ios" height="114" src="www/res/icon/ios/icon-57-2x.png" width="114" />
-    <icon gap:platform="ios" height="144" src="www/res/icon/ios/icon-72-2x.png" width="144" />
-    <icon gap:platform="webos" src="www/res/icon/webos/icon-64.png" />
-    <icon gap:platform="winphone" src="www/res/icon/windows-phone/icon-48.png" />
-    <icon gap:platform="winphone" gap:role="background" src="www/res/icon/windows-phone/icon-173-tile.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="www/res/screen/android/screen-ldpi-portrait.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="www/res/screen/android/screen-mdpi-portrait.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="www/res/screen/android/screen-hdpi-portrait.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="www/res/screen/android/screen-xhdpi-portrait.png" />
-    <gap:splash gap:platform="blackberry" src="www/res/screen/blackberry/screen-225.png" />
-    <gap:splash gap:platform="ios" height="480" src="www/res/screen/ios/screen-iphone-portrait.png" width="320" />
-    <gap:splash gap:platform="ios" height="960" src="www/res/screen/ios/screen-iphone-portrait-2x.png" width="640" />
-    <gap:splash gap:platform="ios" height="1136" src="www/res/screen/ios/screen-iphone-portrait-568h-2x.png" width="640" />
-    <gap:splash gap:platform="ios" height="1024" src="www/res/screen/ios/screen-ipad-portrait.png" width="768" />
-    <gap:splash gap:platform="ios" height="768" src="www/res/screen/ios/screen-ipad-landscape.png" width="1024" />
-    <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
+    <description>A news publication app</description>
+    <author email="cosay@coca-cola.com" href="http://joroni.wordpress.com">Manila SDC</author>
+    <gap:platform name="ios" />
     <access origin="*" />
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
-    <allow-intent href="tel:*" />
-    <allow-intent href="sms:*" />
-    <allow-intent href="mailto:*" />
-    <allow-intent href="geo:*" />
-    <allow-intent href="itms:*" />
-    <allow-intent href="itms-apps:*" />
+    <allow-intent href="*" />
+    <allow-navigation href="*" />
+    <gap:config-file parent="UIStatusBarHidden" platform="ios">
+        <true />
+    </gap:config-file>
+    <gap:config-file parent="UIViewControllerBasedStatusBarAppearance" platform="ios">
+        <false />
+    </gap:config-file>
+    <icon gap:platform="ios" height="180" src="icons/icon-60@3x.png" width="180" />
+    <icon gap:platform="ios" height="120" src="icons/icon-60@2x.png" width="120" />
+    <icon gap:platform="ios" height="114" src="icons/icon@2x.png" width="114" />
+    <icon gap:platform="ios" height="80" src="icons/icon-40@2x.png" width="80" />
+    <icon gap:platform="ios" height="60" src="icons/icon-60.png" width="60" />
+    <icon gap:platform="ios" height="58" src="icons/icon-small@2x.png" width="58" />
+    <icon gap:platform="ios" height="57" src="icons/icon.png" width="57" />
+    <icon gap:platform="ios" height="29" src="icons/icon-small.png" width="29" />
+    <gap:splash gap:platform="ios" height="1242" src="splashscreens/Default-736h-Lanscape@3x~iphone.png" width="2208" />
+    <gap:splash gap:platform="ios" height="2208" src="splashscreens/Default-736h-Portrait@3x~iphone.png" width="1242" />
+    <gap:splash gap:platform="ios" height="750" src="splashscreens/Default-667h-Landscape@2x~iphone.png" width="1334" />
+    <gap:splash gap:platform="ios" height="1334" src="splashscreens/Default-667h-Portrait@2x~iphone.png" width="750" />
+    <gap:splash gap:platform="ios" height="640" src="splashscreens/Default-568h-Landscape@2x~iphone.png" width="1136" />
+    <gap:splash gap:platform="ios" height="1136" src="splashscreens/Default-568h-Portrait@2x~iphone.png" width="640" />
+    <gap:splash gap:platform="ios" height="640" src="splashscreens/Default-Landscape@2x~iphone.png" width="960" />
+    <gap:splash gap:platform="ios" height="960" src="splashscreens/Default-Portrait@2x~iphone.png" width="640" />
+    <gap:splash gap:platform="ios" height="320" src="splashscreens/Default-Landscape~iphone.png" width="480" />
+    <gap:splash gap:platform="ios" height="480" src="splashscreens/Default-Portrait~iphone.png" width="320" />
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="BackupWebStorage" value="cloud" />
     <preference name="DisallowOverscroll" value="true" />
@@ -80,28 +74,11 @@
     <preference name="PageLength" value="0" />
     <preference name="PaginationBreakingMode" value="page" />
     <preference name="PaginationMode" value="unpaginated" />
-    <preference name="StatusBarStyle" value="darkcontent" />
-    <preference name="SplashScreen" value="screen" />
-    <preference name="splashScreenDelay" value="8000" />
-    <preference name="fullscreen" value="true" />
-    <preference name="phonegap-version" value="3.7.0" />
-    <preference name="permissions" value="none" />
-    <preference name="orientation" value="default" />
-    <preference name="target-device" value="universal" />
-    <preference name="webviewbounce" value="true" />
-    <preference name="prerendered-icon" value="true" />
-    <preference name="stay-in-webview" value="false" />
-    <preference name="ios-statusbarstyle" value="black-opaque" />
-    <preference name="detect-data-types" value="true" />
-    <preference name="exit-on-suspend" value="false" />
     <preference name="StatusBarOverlaysWebView" value="true" />
-    <preference name="StatusBarBackgroundColor" value="#ffffff" />
-    <preference name="show-splash-screen-spinner" value="true" />
-    <preference name="auto-hide-splash-screen" value="false" />
-    <preference name="disable-cursor" value="false" />
-    <preference name="android-minSdkVersion" value="14" />
-    <preference name="splashscreen" value="splash" />
-    <preference name="SplashScreenDelay" value="10000" />
-    <preference name="AutoHideSplashScreen" value="true" />
-    <preference name="android-installLocation" value="auto" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+    <preference name="permissions" value="none" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="FadeSplashScreenDuration" value="1000" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
 </widget>
