@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family: "Roboto-Condensed";
+    src: url('../fonts/Roboto-Condensed.ttf');
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Bold";
+    src: url('../fonts/RobotoCondensed-Bold.ttf');
+}
+
+/* cyrillic-ext */
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Condensed'), local('Roboto-Condensed'), url(https://fonts.gstatic.com/s/robotocondensed/v13/b9QBgL0iMZfDSpmcXcE8nFVSrcc0PghHf9qMZsyNJkz2Ot9t5h1GRSTIE78Whtoh.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Condensed Bold'), local('RobotoCondensed-Bold'), url(https://fonts.gstatic.com/s/robotocondensed/v13/b9QBgL0iMZfDSpmcXcE8nBYyuMfI6pbvLqniwcbLofP2Ot9t5h1GRSTIE78Whtoh.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+
+.square,  .media-object-thumb {
+  position: relative;
+  width: 100%;
+}
+
+.square:after, .media-object-thumb:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.media-title-inner {
+    position: absolute;
+    width: 100%;
+    height: 65%;
+    top: 0;
+    left: 0;
+    font-family: "Roboto Condensed", helevtica, sans-serif !important;
+    font-weight: 500 !important;
+    white-space: nowrap !important;
+    font-size: 2.5em !important;
+    text-shadow: 1px 0 3px #000;
+    /* top: 30%; */
+    /* overflow: hidden; */
+    color: #fff148 !important;
+    line-height: 0.98em;
+    padding-top: 35%;
+    text-align: center !important;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+    /* white-space: nowrap; */
+    /* font-size: 2.5em; */
+    overflow: hidden;
+    margin: auto;
+}
+
+.media-title-inner tit {
+    width: 85px;
+    overflow: hidden;
+    position: absolute;
+    left: 22px;
+}
